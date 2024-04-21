@@ -2,8 +2,8 @@
 
 На данный момент главная страница сайта выглядит так:
 
-![main](https://github.com/GrigoriyShitov/ASP-NET-APP/Screenshots/main)
+![main](https://github.com/GrigoriyShitov/ASP-NET-APP/Screenshots/main.png)
 
 Страница для оставление фидбека:
 
-![feedback](https://github.com/GrigoriyShitov/ASP-NET-APP/Screenshots/main)
+![feedback](https://github.com/GrigoriyShitov/ASP-NET-APP/Screenshots/feedback.png)
